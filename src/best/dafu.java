@@ -1,5 +1,5 @@
 package best;
 
 public class dafu {
-    int  sdf=23;
+    int  sdf=2356666;
 }
